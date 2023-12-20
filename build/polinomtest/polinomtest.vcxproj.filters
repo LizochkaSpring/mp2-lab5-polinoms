@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Xaker\source\repos\polinom\mp2-lab5-polinoms\polinomtest\TestPolinom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Xaker\source\repos\polinom\mp2-lab5-polinoms\polinomtest\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Xaker\source\repos\polinom\mp2-lab5-polinoms\polinomtest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3450F779-A457-3B2F-AF30-0EB4762E93F2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
